@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936279224615",
+    "project_id": "ecommerce-c69f8",
+    "storage_bucket": "ecommerce-c69f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936279224615:android:cddda32d84d543df29f902",
+        "android_client_info": {
+          "package_name": "com.example.example_1_ecommerce_onboarding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt5QM6Oh1qMQCU8RxEHQIC5i2Eyh8b6aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936279224615:android:0e32d933630d5c7129f902",
+        "android_client_info": {
+          "package_name": "com.shokhrukhbek.food_ninja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt5QM6Oh1qMQCU8RxEHQIC5i2Eyh8b6aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
